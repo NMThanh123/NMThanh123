@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Nguyen Minh Thanh<br>🌱 I’m currently learning at Ho Chi Minh City University of Technology and Education - HCMUTE<br>🔭 I’m working on Artificial Intelligence<br>🤝 I’m looking for help with AI<br>💬 Ask me about AI<br>
+👋 Hi, I’m Nguyen Minh Thanh<br>🌱 I have graduated from Ho Chi Minh City University of Technology and Education - HCMUTE<br>🔭 I’m working on Artificial Intelligence<br>🤝 I’m looking for help with AI<br>💬 Ask me about AI<br>
 
 
 ## 🌐 Socials:
